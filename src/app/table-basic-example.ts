@@ -26,6 +26,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     frequecnyIntervals: 3022,
     frequencyMaxLimit: 50,
   },
+
   {
     typeCategory: '2',
     typeCategoryValue: 221,
